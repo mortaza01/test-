@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Btv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1,kolatv99
+https://live05.msdht.app/live/14830711.m3u8
+#EXTINF:-1,kolatv99 2
+https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:-1,kolatv99 3
+https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:-1,kolatv99 4
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1,t sports
+https://live-aburayhan1101.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
+#EXTINF:-1,Go live  tv
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=196472&extension=m3u8
+#EXTINF:-1,go live 2
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1,Zee Bangla  bdix
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1,zee bangla with high-low resulation
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1,TYC SPORTS 1080p
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
+#EXTINF:-1,FiFa
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1,Trt 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1,bein 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1,bein extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1,tyc
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,extreme sports
+https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1,Wc
+https://daffodil.thelistener.pk/tele.m3u8
+#EXTINF:-1,phanma tv
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1,Fox 5
+https://vixvind.cdx-08191.space/1781712108/d6979a0f6f0c4e20b5dfa5d1bf28bd34/W0kuRyX-s1vQmb7Br5P-lAfWXGczPSNpPz9INpmjXrE/fox-usa.m3u8
+#EXTINF:-1,tv9 bangla
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+#EXTINF:-1,tsports. 000
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Wc1 bdix
+http://10.20.30.30:7171/Sports-1/index.m3u8?token=wcspecial2026hub
+#EXTINF:-1,Wc 2 bdix
+http://10.20.30.30:7171/Sports-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1,Wc 3 bdix
+http://10.20.30.30:7171/Sports-3/index.m3u8?token=wcspecial2026hub
+#EXTINF:-1,wc 4 bdix
+http://10.20.30.30:7171/Sports-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1,wc 5 bdix
+http://10.20.30.30:7171/Sports-5/index.m3u8?token=wcspecial2026hub
+#EXTINF:-1,wc 6 bdix
+http://10.20.30.30:7171/Sports-6/index.m3u8?token=wcspecial2026hub
